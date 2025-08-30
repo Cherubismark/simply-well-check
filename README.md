@@ -1,6 +1,6 @@
-# Welcome to your Lovable project
+# Health Checker App
 
-## Project info
+## Check your health status and get wellness tips
 
 **URL**: https://lovable.dev/projects/129b6eb3-1cc2-4155-8441-4b2e76e56862
 
